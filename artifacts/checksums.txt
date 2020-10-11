@@ -1,0 +1,1 @@
+7dfac5b7fd605bc010bf762b4f2edaf28d5a8ff61200d3252d43f59da1fddf57  contractv11.wasm
